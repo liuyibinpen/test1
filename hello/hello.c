@@ -4,5 +4,5 @@
 int main(void)
 {
 	printf("hello\n");
-	system("echo '555'>> /tmp/out");
+	system("echo '888'>> /tmp/out");
 }
